@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="960" height="330" fill="#FAF9F5"/><rect width="960" height="330" fill="url(#grid)"/>
+  <text x="40" y="52" fill="#2B0D57" font-size="26" font-weight="800">Le DCA : un montant fixe, à intervalles réguliers</text>
+  <text x="40" y="80" fill="#6B6B6B" font-size="15">Tu investis la même somme, quoi qu'il arrive. Le prix monte ou baisse, tu continues.</text>
+
+  <!-- prix qui ondule -->
+  <polyline points="100,150 220,120 340,165 460,110 580,160 700,115 820,150 880,130" fill="none" stroke="#9CA3AF" stroke-width="2"/>
+  <text x="884" y="134" fill="#9CA3AF" font-size="12">prix</text>
+
+  <!-- achats egaux -->
+  <g fill="#2B0D57">
+    <rect x="120" y="200" width="48" height="60" rx="4"/>
+    <rect x="280" y="200" width="48" height="60" rx="4"/>
+    <rect x="440" y="200" width="48" height="60" rx="4"/>
+    <rect x="600" y="200" width="48" height="60" rx="4"/>
+    <rect x="760" y="200" width="48" height="60" rx="4"/>
+  </g>
+  <g fill="#1A1A1A" font-size="13" font-weight="700" text-anchor="middle">
+    <text x="144" y="280">100 €</text><text x="304" y="280">100 €</text><text x="464" y="280">100 €</text><text x="624" y="280">100 €</text><text x="784" y="280">100 €</text>
+  </g>
+
+  <rect x="40" y="300" width="500" height="22" rx="5" fill="#E2EB3F" opacity="0.55"/>
+  <text x="52" y="316" fill="#1A1A1A" font-size="12">Tu lisses ton prix d'entrée et tu évites le stress du bon timing.</text>
+</svg>

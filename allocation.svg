@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="720" height="380" fill="#FAF9F5"/>
+  <rect width="720" height="380" fill="url(#grid)"/>
+  <text x="40" y="52" fill="#2B0D57" font-size="25" font-weight="800">Une petite part suffit</text>
+  <text x="40" y="80" fill="#6B6B6B" font-size="15">La crypto, c'est une fraction de ton patrimoine, pas tout ton capital.</text>
+
+  <g transform="translate(230,235) rotate(-90)">
+    <circle r="100" fill="none" stroke="#E5E2D9" stroke-width="44"/>
+    <circle r="100" fill="none" stroke="#2B0D57" stroke-width="44" stroke-dasharray="50 578"/>
+  </g>
+  <circle cx="230" cy="235" r="62" fill="#FFFFFF"/>
+  <text x="230" y="230" fill="#2B0D57" font-size="18" font-weight="800" text-anchor="middle">Patrimoine</text>
+  <text x="230" y="252" fill="#9CA3AF" font-size="13" text-anchor="middle">total</text>
+
+  <rect x="440" y="182" width="16" height="16" rx="3" fill="#2B0D57"/>
+  <text x="466" y="195" fill="#1A1A1A" font-size="15" font-weight="600">Crypto, une petite part</text>
+  <text x="466" y="216" fill="#6B6B6B" font-size="13">que tu peux laisser dormir</text>
+
+  <rect x="440" y="242" width="16" height="16" rx="3" fill="#E5E2D9"/>
+  <text x="466" y="255" fill="#1A1A1A" font-size="15" font-weight="600">Le reste de ton patrimoine</text>
+  <text x="466" y="276" fill="#6B6B6B" font-size="13">épargne, immobilier, actions…</text>
+
+  <rect x="40" y="332" width="640" height="30" rx="6" fill="#E2EB3F" opacity="0.5"/>
+  <text x="52" y="352" fill="#1A1A1A" font-size="12">La part exacte dépend de ton profil de risque. C'est ton choix, pas une règle universelle.</text>
+</svg>

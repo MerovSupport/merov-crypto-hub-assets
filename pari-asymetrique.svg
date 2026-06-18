@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="360" fill="#FAF9F5"/><rect width="760" height="360" fill="url(#grid)"/>
+  <text x="40" y="52" fill="#2B0D57" font-size="26" font-weight="800">Le pari asymétrique</text>
+  <text x="40" y="80" fill="#6B6B6B" font-size="15">Peu à risquer, beaucoup à gagner si la thèse se réalise. Honnête sur le risque.</text>
+
+  <!-- baseline -->
+  <line x1="40" y1="300" x2="720" y2="300" stroke="#E5E2D9" stroke-width="2"/>
+
+  <!-- petite mise -->
+  <rect x="150" y="260" width="120" height="40" rx="6" fill="#2B0D57"/>
+  <text x="210" y="332" fill="#1A1A1A" font-size="15" font-weight="700" text-anchor="middle">Ce que tu risques</text>
+  <text x="210" y="252" fill="#6B6B6B" font-size="13" text-anchor="middle">une petite part</text>
+
+  <!-- gros potentiel -->
+  <rect x="490" y="110" width="120" height="190" rx="6" fill="#E2EB3F"/>
+  <rect x="490" y="110" width="120" height="190" rx="6" fill="none" stroke="#2B0D57" stroke-width="2"/>
+  <text x="550" y="332" fill="#1A1A1A" font-size="15" font-weight="700" text-anchor="middle">Ce que tu peux gagner</text>
+  <text x="550" y="100" fill="#2B0D57" font-size="13" font-weight="700" text-anchor="middle">beaucoup plus</text>
+
+  <text x="40" y="348" fill="#9CA3AF" font-size="12">C'est pour ça qu'une petite allocation suffit. Risqué et volatil : n'y mets que ce que tu peux laisser dormir.</text>
+</svg>

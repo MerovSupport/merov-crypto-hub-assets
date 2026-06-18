@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="300" fill="#FAF9F5"/><rect width="760" height="300" fill="url(#grid)"/>
+  <text x="40" y="54" fill="#2B0D57" font-size="26" font-weight="800">Un stablecoin vaut toujours ≈ 1 $</text>
+  <text x="40" y="84" fill="#6B6B6B" font-size="15">Une crypto calée sur une monnaie classique, le plus souvent le dollar.</text>
+
+  <image href="logos/usd-coin-usdc.svg" x="170" y="120" width="120" height="120"/>
+  <text x="230" y="262" fill="#1A1A1A" font-size="15" font-weight="700" text-anchor="middle">1 USDC</text>
+
+  <text x="380" y="194" fill="#1A1A1A" font-size="42" font-weight="800" text-anchor="middle">=</text>
+
+  <circle cx="530" cy="180" r="60" fill="#FFFFFF" stroke="#E5E2D9" stroke-width="2"/>
+  <text x="530" y="192" fill="#1A1A1A" font-size="40" font-weight="800" text-anchor="middle">$</text>
+  <text x="530" y="262" fill="#6B6B6B" font-size="15" font-weight="700" text-anchor="middle">1 dollar</text>
+
+  <text x="40" y="290" fill="#9CA3AF" font-size="12">À vérifier toujours : qu'est-ce qui garantit que ça vaut bien un dollar ? Tous ne se valent pas.</text>
+</svg>

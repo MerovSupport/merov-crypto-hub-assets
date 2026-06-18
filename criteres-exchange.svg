@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern>
+    <g id="chk"><circle r="11" fill="#E2EB3F"/><path d="M-5 0 L-1 4 L6 -5" fill="none" stroke="#2B0D57" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </defs>
+  <rect width="760" height="430" fill="#FAF9F5"/><rect width="760" height="430" fill="url(#grid)"/>
+  <text x="40" y="54" fill="#2B0D57" font-size="26" font-weight="800">Choisir son exchange : les critères</text>
+  <text x="40" y="84" fill="#6B6B6B" font-size="15">C'est ta décision numéro un : c'est ta porte d'entrée, et souvent là où dort ton argent.</text>
+
+  <g font-size="16" font-weight="600" fill="#1A1A1A">
+    <use href="#chk" x="60" y="124"/><text x="84" y="130">Régulation (MiCA, MiFID)</text>
+    <use href="#chk" x="60" y="164"/><text x="84" y="170">Sécurité (2FA, preuve de réserves)</text>
+    <use href="#chk" x="60" y="204"/><text x="84" y="210">Frais clairs (spread, retrait)</text>
+    <use href="#chk" x="60" y="244"/><text x="84" y="250">Liquidité (gros volume)</text>
+    <use href="#chk" x="60" y="284"/><text x="84" y="290">Gamme (achat, Earn, wallet)</text>
+    <use href="#chk" x="60" y="324"/><text x="84" y="330">Support en français</text>
+  </g>
+
+  <rect x="430" y="120" width="290" height="244" rx="8" fill="#2B0D57"/>
+  <rect x="430" y="120" width="290" height="40" rx="8" fill="#E2EB3F"/>
+  <text x="454" y="146" fill="#2B0D57" font-size="15" font-weight="800">NOTRE CHOIX : OKX</text>
+  <text x="454" y="196" fill="#FFFFFF" font-size="15" font-weight="700">Licence MiCA + MiFID</text>
+  <text x="454" y="232" fill="#FFFFFF" font-size="15" font-weight="700">Top 3 mondial</text>
+  <text x="454" y="268" fill="#FFFFFF" font-size="15" font-weight="700">120M+ utilisateurs</text>
+  <text x="454" y="316" fill="#E2EB3F" font-size="14">Il coche les cases qui</text>
+  <text x="454" y="336" fill="#E2EB3F" font-size="14">comptent vraiment.</text>
+
+  <text x="40" y="404" fill="#9CA3AF" font-size="12">Drapeaux rouges : exchange non régulé, pas de preuve de réserves, frais opaques, rendement « garanti ».</text>
+</svg>

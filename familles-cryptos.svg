@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="470" fill="#FAF9F5"/><rect width="760" height="470" fill="url(#grid)"/>
+  <text x="40" y="54" fill="#2B0D57" font-size="26" font-weight="800">Les familles de cryptos</text>
+  <text x="40" y="84" fill="#6B6B6B" font-size="15">Chaque crypto a un rôle. Range-la dans sa case avant de juger.</text>
+
+  <rect x="40" y="106" width="680" height="60" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <image href="logos/bitcoin-btc.svg" x="58" y="122" width="28" height="28"/>
+  <text x="100" y="132" fill="#1A1A1A" font-size="16" font-weight="700">Réserve de valeur</text>
+  <text x="100" y="152" fill="#6B6B6B" font-size="13">une quantité limitée, faite pour durer</text>
+  <text x="700" y="142" fill="#2B0D57" font-size="14" font-weight="700" text-anchor="end">Bitcoin</text>
+
+  <rect x="40" y="174" width="680" height="60" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <image href="logos/ethereum-eth.svg" x="58" y="190" width="28" height="28"/>
+  <text x="100" y="200" fill="#1A1A1A" font-size="16" font-weight="700">Plateformes</text>
+  <text x="100" y="220" fill="#6B6B6B" font-size="13">on construit des applications dessus</text>
+  <text x="700" y="210" fill="#2B0D57" font-size="14" font-weight="700" text-anchor="end">Ethereum, Solana</text>
+
+  <rect x="40" y="242" width="680" height="60" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <image href="logos/usd-coin-usdc.svg" x="58" y="258" width="28" height="28"/>
+  <text x="100" y="268" fill="#1A1A1A" font-size="16" font-weight="700">Stablecoins</text>
+  <text x="100" y="288" fill="#6B6B6B" font-size="13">calés sur une monnaie, valent ≈ 1 $</text>
+  <text x="700" y="278" fill="#2B0D57" font-size="14" font-weight="700" text-anchor="end">USDC, USDT</text>
+
+  <rect x="40" y="310" width="680" height="60" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="64" y="336" fill="#1A1A1A" font-size="16" font-weight="700">DeFi</text>
+  <text x="64" y="356" fill="#6B6B6B" font-size="13">des services financiers sans banque</text>
+  <text x="700" y="346" fill="#2B0D57" font-size="14" font-weight="700" text-anchor="end">finance décentralisée</text>
+
+  <rect x="40" y="378" width="680" height="60" rx="8" fill="#FFFFFF" stroke="#C0392B"/>
+  <text x="64" y="404" fill="#1A1A1A" font-size="16" font-weight="700">Memecoins</text>
+  <text x="64" y="424" fill="#6B6B6B" font-size="13">un pari spéculatif à haut risque</text>
+  <text x="700" y="414" fill="#C0392B" font-size="14" font-weight="700" text-anchor="end">à manier avec prudence</text>
+</svg>

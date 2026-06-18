@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2B0D57"/></marker>
+  </defs>
+  <rect width="960" height="320" fill="#FAF9F5"/><rect width="960" height="320" fill="url(#grid)"/>
+  <text x="40" y="54" fill="#2B0D57" font-size="27" font-weight="800">Comment marche une transaction</text>
+  <text x="40" y="84" fill="#6B6B6B" font-size="15">Rien ne bouge physiquement. C'est le registre public qui se met à jour.</text>
+  <image href="logos/bitcoin-btc.svg" x="902" y="22" width="38" height="38"/>
+
+  <rect x="40" y="130" width="230" height="120" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="155" y="180" fill="#1A1A1A" font-size="17" font-weight="700" text-anchor="middle">Toi</text>
+  <text x="155" y="206" fill="#6B6B6B" font-size="14" text-anchor="middle">l'expéditeur</text>
+
+  <rect x="365" y="120" width="230" height="140" rx="8" fill="#FFFFFF" stroke="#2B0D57" stroke-width="2"/>
+  <rect x="365" y="120" width="230" height="34" rx="8" fill="#2B0D57"/>
+  <text x="480" y="143" fill="#FFFFFF" font-size="14" font-weight="700" text-anchor="middle">LA BLOCKCHAIN</text>
+  <text x="480" y="190" fill="#1A1A1A" font-size="15" font-weight="700" text-anchor="middle">Registre public</text>
+  <text x="480" y="214" fill="#6B6B6B" font-size="13" text-anchor="middle">qui note qui possède quoi,</text>
+  <text x="480" y="232" fill="#6B6B6B" font-size="13" text-anchor="middle">pour toujours.</text>
+
+  <rect x="690" y="130" width="230" height="120" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="805" y="180" fill="#1A1A1A" font-size="17" font-weight="700" text-anchor="middle">Le destinataire</text>
+  <text x="805" y="206" fill="#6B6B6B" font-size="14" text-anchor="middle">reçoit la valeur</text>
+
+  <line x1="282" y1="190" x2="352" y2="190" stroke="#2B0D57" stroke-width="3" marker-end="url(#arr)"/>
+  <line x1="607" y1="190" x2="677" y2="190" stroke="#2B0D57" stroke-width="3" marker-end="url(#arr)"/>
+
+  <text x="40" y="296" fill="#9CA3AF" font-size="12">Tout est traçable et définitif : une transaction inscrite ne se rembobine pas.</text>
+</svg>

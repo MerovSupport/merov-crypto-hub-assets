@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="380" fill="#FAF9F5"/><rect width="760" height="380" fill="url(#grid)"/>
+  <text x="40" y="52" fill="#2B0D57" font-size="26" font-weight="800">Les pièges à connaître</text>
+  <text x="40" y="80" fill="#6B6B6B" font-size="15">La plupart des pertes ne viennent pas d'un hack, mais d'une arnaque évitable.</text>
+
+  <g>
+    <rect x="40" y="110" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+    <circle cx="70" cy="140" r="6" fill="#C0392B"/><text x="90" y="138" fill="#1A1A1A" font-size="15" font-weight="600">Phishing et faux sites</text><text x="90" y="158" fill="#6B6B6B" font-size="12">une copie d'un vrai site pour voler tes infos</text>
+
+    <rect x="40" y="180" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+    <circle cx="70" cy="210" r="6" fill="#C0392B"/><text x="90" y="208" fill="#1A1A1A" font-size="15" font-weight="600">Faux service client</text><text x="90" y="228" fill="#6B6B6B" font-size="12">qui te contacte et te presse d'agir</text>
+
+    <rect x="40" y="250" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+    <circle cx="70" cy="280" r="6" fill="#C0392B"/><text x="90" y="278" fill="#1A1A1A" font-size="15" font-weight="600">« Rendement garanti »</text><text x="90" y="298" fill="#6B6B6B" font-size="12">la promesse trop belle pour être vraie</text>
+
+    <rect x="40" y="320" width="340" height="44" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+    <circle cx="70" cy="342" r="6" fill="#C0392B"/><text x="90" y="347" fill="#1A1A1A" font-size="15" font-weight="600">On te demande ta seed phrase</text>
+  </g>
+
+  <rect x="410" y="110" width="310" height="254" rx="8" fill="#2B0D57"/>
+  <rect x="410" y="110" width="310" height="38" rx="8" fill="#E2EB3F"/>
+  <text x="434" y="135" fill="#2B0D57" font-size="14" font-weight="800">LES RÈGLES D'OR</text>
+  <text x="434" y="186" fill="#FFFFFF" font-size="15" font-weight="700">Personne ne demande</text>
+  <text x="434" y="208" fill="#FFFFFF" font-size="15" font-weight="700">jamais ta seed phrase.</text>
+  <text x="434" y="246" fill="#E2EB3F" font-size="15" font-weight="700">Rendement garanti = arnaque.</text>
+  <text x="434" y="290" fill="#FFFFFF" font-size="14">Si c'est urgent et pressant,</text>
+  <text x="434" y="310" fill="#FFFFFF" font-size="14">c'est suspect.</text>
+  <text x="434" y="344" fill="#FFFFFF" font-size="14">Vérifie toujours l'adresse</text>
+</svg>

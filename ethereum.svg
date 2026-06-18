@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2B0D57"/></marker>
+  </defs>
+  <rect width="760" height="330" fill="#FAF9F5"/><rect width="760" height="330" fill="url(#grid)"/>
+  <image href="logos/ethereum-eth.svg" x="40" y="30" width="34" height="34"/>
+  <text x="86" y="56" fill="#2B0D57" font-size="26" font-weight="800">Ethereum : un ordinateur mondial</text>
+  <text x="40" y="90" fill="#6B6B6B" font-size="15">Pas une simple monnaie : une plateforme qui fait tourner des programmes.</text>
+
+  <rect x="40" y="120" width="215" height="120" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="147" y="166" fill="#1A1A1A" font-size="16" font-weight="700" text-anchor="middle">Une condition</text>
+  <text x="147" y="192" fill="#6B6B6B" font-size="13" text-anchor="middle">« si X se produit… »</text>
+
+  <rect x="272" y="120" width="216" height="120" rx="8" fill="#FFFFFF" stroke="#2B0D57" stroke-width="2"/>
+  <text x="380" y="160" fill="#1A1A1A" font-size="16" font-weight="700" text-anchor="middle">Le contrat intelligent</text>
+  <text x="380" y="186" fill="#6B6B6B" font-size="13" text-anchor="middle">du code qui s'exécute</text>
+  <text x="380" y="206" fill="#6B6B6B" font-size="13" text-anchor="middle">tout seul, sans tiers</text>
+
+  <rect x="505" y="120" width="215" height="120" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="612" y="166" fill="#1A1A1A" font-size="16" font-weight="700" text-anchor="middle">L'action se fait</text>
+  <text x="612" y="192" fill="#6B6B6B" font-size="13" text-anchor="middle">« …alors Y s'exécute »</text>
+
+  <line x1="261" y1="180" x2="266" y2="180" stroke="#2B0D57" stroke-width="3" marker-end="url(#arr)"/>
+  <line x1="493" y1="180" x2="499" y2="180" stroke="#2B0D57" stroke-width="3" marker-end="url(#arr)"/>
+
+  <text x="40" y="296" fill="#9CA3AF" font-size="12">L'ether (ETH) est le carburant : chaque opération sur le réseau se paie en ether.</text>
+</svg>

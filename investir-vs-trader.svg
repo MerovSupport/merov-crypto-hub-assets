@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="360" fill="#FAF9F5"/><rect width="760" height="360" fill="url(#grid)"/>
+  <text x="40" y="54" fill="#2B0D57" font-size="26" font-weight="800">Investir ou trader ?</text>
+  <text x="40" y="84" fill="#6B6B6B" font-size="15">Deux approches très différentes. Choisis la tienne en connaissance de cause.</text>
+
+  <rect x="40" y="115" width="320" height="210" rx="8" fill="#FFFFFF" stroke="#2B0D57" stroke-width="2"/>
+  <rect x="40" y="115" width="320" height="32" rx="8" fill="#E2EB3F"/>
+  <text x="64" y="137" fill="#2B0D57" font-size="13" font-weight="800">POUR DÉBUTER</text>
+  <text x="64" y="184" fill="#1A1A1A" font-size="18" font-weight="700">Investir (long terme)</text>
+  <text x="64" y="218" fill="#6B6B6B" font-size="14">Tu achètes et tu gardes.</text>
+  <text x="64" y="240" fill="#6B6B6B" font-size="14">Tu vises la hausse sur des années.</text>
+  <text x="64" y="284" fill="#1A1A1A" font-size="14" font-weight="600">Simple, calme, moins risqué.</text>
+
+  <rect x="400" y="115" width="320" height="210" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="424" y="160" fill="#1A1A1A" font-size="18" font-weight="700">Trader (court terme)</text>
+  <text x="424" y="194" fill="#6B6B6B" font-size="14">Tu achètes et revends souvent.</text>
+  <text x="424" y="216" fill="#6B6B6B" font-size="14">Tu cherches à attraper les</text>
+  <text x="424" y="236" fill="#6B6B6B" font-size="14">mouvements de prix.</text>
+  <text x="424" y="284" fill="#C0392B" font-size="14" font-weight="600">Chronophage, risqué.</text>
+
+  <text x="40" y="348" fill="#9CA3AF" font-size="12">La grande majorité des traders particuliers perdent. Pour la plupart des gens, le long terme suffit.</text>
+</svg>

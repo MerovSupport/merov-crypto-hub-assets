@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="360" fill="#FAF9F5"/><rect width="760" height="360" fill="url(#grid)"/>
+  <text x="40" y="52" fill="#2B0D57" font-size="26" font-weight="800">Deux bots, deux logiques</text>
+  <text x="40" y="80" fill="#6B6B6B" font-size="15">Automatiser ta stratégie. Disponible sur OKX (régulé MiCA en UE).</text>
+
+  <rect x="40" y="110" width="320" height="200" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="64" y="148" fill="#1A1A1A" font-size="18" font-weight="700">Bot DCA</text>
+  <text x="64" y="182" fill="#6B6B6B" font-size="14">Il achète automatiquement</text>
+  <text x="64" y="202" fill="#6B6B6B" font-size="14">un montant fixe, à intervalles</text>
+  <text x="64" y="222" fill="#6B6B6B" font-size="14">réguliers.</text>
+  <text x="64" y="262" fill="#1A1A1A" font-size="14" font-weight="600">Simple, régulier, sans stress.</text>
+
+  <rect x="400" y="110" width="320" height="200" rx="8" fill="#FFFFFF" stroke="#2B0D57" stroke-width="2"/>
+  <text x="424" y="148" fill="#1A1A1A" font-size="18" font-weight="700">Bot Grid</text>
+  <text x="424" y="182" fill="#6B6B6B" font-size="14">Il achète quand ça baisse,</text>
+  <text x="424" y="202" fill="#6B6B6B" font-size="14">vend quand ça monte, dans</text>
+  <text x="424" y="222" fill="#6B6B6B" font-size="14">une fourchette de prix.</text>
+  <text x="424" y="262" fill="#1A1A1A" font-size="14" font-weight="600">Il profite de la volatilité.</text>
+
+  <text x="40" y="342" fill="#9CA3AF" font-size="12">Un bot n'est pas une garantie de gain. Les produits dépendent de la régulation (entité OKX UE).</text>
+</svg>

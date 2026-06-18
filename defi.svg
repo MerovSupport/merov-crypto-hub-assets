@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="360" fill="#FAF9F5"/><rect width="760" height="360" fill="url(#grid)"/>
+  <text x="40" y="54" fill="#2B0D57" font-size="26" font-weight="800">La DeFi : la finance, sans la banque</text>
+  <text x="40" y="84" fill="#6B6B6B" font-size="15">Les mêmes services qu'une banque, mais gérés par du code.</text>
+
+  <rect x="40" y="115" width="215" height="95" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="147" y="158" fill="#1A1A1A" font-size="17" font-weight="700" text-anchor="middle">Prêter</text>
+  <text x="147" y="184" fill="#6B6B6B" font-size="13" text-anchor="middle">et toucher un intérêt</text>
+
+  <rect x="272" y="115" width="216" height="95" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="380" y="158" fill="#1A1A1A" font-size="17" font-weight="700" text-anchor="middle">Emprunter</text>
+  <text x="380" y="184" fill="#6B6B6B" font-size="13" text-anchor="middle">sans passer par un guichet</text>
+
+  <rect x="505" y="115" width="215" height="95" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="612" y="158" fill="#1A1A1A" font-size="17" font-weight="700" text-anchor="middle">Échanger</text>
+  <text x="612" y="184" fill="#6B6B6B" font-size="13" text-anchor="middle">une crypto contre une autre</text>
+
+  <rect x="40" y="232" width="680" height="56" rx="8" fill="#2B0D57"/>
+  <text x="380" y="266" fill="#FFFFFF" font-size="15" font-weight="700" text-anchor="middle">Le tout par des contrats intelligents (du code), sans intermédiaire.</text>
+
+  <text x="40" y="324" fill="#9CA3AF" font-size="12">Les risques : faille d'un smart contract, arnaque, perte sur les pools. Un rendement énorme cache un risque énorme.</text>
+</svg>
