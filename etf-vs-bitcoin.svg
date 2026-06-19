@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="760" height="380" fill="#FAF9F5"/><rect width="760" height="380" fill="url(#grid)"/>
+  <text x="40" y="54" fill="#2B0D57" font-size="26" font-weight="800">ETF Bitcoin ou vrai Bitcoin ?</text>
+  <text x="40" y="84" fill="#6B6B6B" font-size="15">Le prix du Bitcoin, ou le Bitcoin lui-même : ce n'est pas la même chose.</text>
+
+  <rect x="40" y="115" width="320" height="220" rx="8" fill="#FFFFFF" stroke="#E5E2D9"/>
+  <text x="64" y="152" fill="#1A1A1A" font-size="18" font-weight="700">L'ETF Bitcoin</text>
+  <text x="64" y="188" fill="#6B6B6B" font-size="14">Tu détiens une part d'un fonds.</text>
+  <text x="64" y="214" fill="#6B6B6B" font-size="14">Pas tes clés : un dépositaire tiers.</text>
+  <text x="64" y="234" fill="#6B6B6B" font-size="14">Frais annuels, horaires de bourse.</text>
+  <text x="64" y="274" fill="#1A1A1A" font-size="14" font-weight="600">Pratique, mais tu dépends d'un tiers.</text>
+  <text x="64" y="300" fill="#9CA3AF" font-size="13">Aucun transfert, aucun usage.</text>
+
+  <rect x="400" y="115" width="320" height="220" rx="8" fill="#FFFFFF" stroke="#2B0D57" stroke-width="2"/>
+  <rect x="400" y="115" width="320" height="32" rx="8" fill="#E2EB3F"/>
+  <text x="424" y="137" fill="#2B0D57" font-size="13" font-weight="800">SOUVERAIN</text>
+  <text x="424" y="184" fill="#1A1A1A" font-size="18" font-weight="700">Le vrai Bitcoin</text>
+  <text x="424" y="216" fill="#6B6B6B" font-size="14">Tu détiens tes bitcoins, tes clés.</text>
+  <text x="424" y="236" fill="#6B6B6B" font-size="14">Self-custody possible, dispo 24/7.</text>
+  <text x="424" y="276" fill="#1A1A1A" font-size="14" font-weight="600">Aussi simple, et bien plus souverain.</text>
+  <text x="424" y="302" fill="#9CA3AF" font-size="13">Tu en es l'unique maître.</text>
+
+  <text x="40" y="362" fill="#9CA3AF" font-size="12">Règle simple : si tu crois au Bitcoin, autant le détenir vraiment.</text>
+</svg>
