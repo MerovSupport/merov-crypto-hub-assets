@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 345" font-family="Avenir Next, Avenir, Arial, sans-serif">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" fill="none" stroke="#2B0D57" stroke-opacity="0.06" stroke-width="1"/></pattern></defs>
+  <rect width="960" height="345" fill="#FAF9F5"/><rect width="960" height="345" fill="url(#grid)"/>
+  <text x="40" y="50" fill="#2B0D57" font-size="26" font-weight="800">Le halving : deux fois moins de bitcoins, tous les ~4 ans</text>
+  <text x="40" y="78" fill="#6B6B6B" font-size="15">À chaque halving, la récompense par bloc est divisée par deux. La création ralentit jusque vers 2140.</text>
+
+  <text x="82" y="102" fill="#6B6B6B" font-size="12">récompense par bloc (BTC)</text>
+  <line x1="70" y1="270" x2="905" y2="270" stroke="#9CA3AF" stroke-width="1.5"/>
+
+  <g fill="#2B0D57">
+    <rect x="82"  y="110" width="76" height="160" rx="4"/>
+    <rect x="222" y="190" width="76" height="80"  rx="4"/>
+    <rect x="362" y="230" width="76" height="40"  rx="4"/>
+    <rect x="502" y="250" width="76" height="20"  rx="4"/>
+    <rect x="642" y="260" width="76" height="10"  rx="4"/>
+    <rect x="782" y="265" width="76" height="5"   rx="4"/>
+  </g>
+
+  <g fill="#1A1A1A" font-size="15" font-weight="800" text-anchor="middle">
+    <text x="120" y="102">50</text>
+    <text x="260" y="182">25</text>
+    <text x="400" y="222">12,5</text>
+    <text x="540" y="242">6,25</text>
+    <text x="680" y="252">3,125</text>
+    <text x="820" y="257">1,56</text>
+  </g>
+
+  <g fill="#6B6B6B" font-size="13" text-anchor="middle">
+    <text x="120" y="290">2009</text>
+    <text x="260" y="290">2012</text>
+    <text x="400" y="290">2016</text>
+    <text x="540" y="290">2020</text>
+    <text x="680" y="290">2024</text>
+    <text x="820" y="290">2028</text>
+  </g>
+
+  <rect x="40" y="308" width="640" height="24" rx="5" fill="#E2EB3F" opacity="0.55"/>
+  <text x="52" y="325" fill="#1A1A1A" font-size="12">La rareté est écrite dans le code : plafond de 21 millions, dont près de 95 % déjà créés.</text>
+</svg>
